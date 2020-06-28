@@ -1,0 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Bungee);
+.dummy-class {
+    font-family: 'Bungee';
+}
+
+.done {
+    text-decoration: line-through;
+}
